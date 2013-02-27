@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>US</key>
+  <dict>
+    <key>aspect ratio</key>
+    <string>1.0</string>
+    <key>head ratio lower bound</key>
+    <real>0.4</real>
+    <key>head ratio upper bound</key>
+    <real>0.6</real>
+  </dict>
+</dict>
+</plist>
